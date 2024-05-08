@@ -1,0 +1,41 @@
+Relatório 1 de estudo - Estagiário Pedro Seco
+Pedro, o Estagiário - LeetCode Profile
+Pedro, o Estagiário - Github
+(Git vazio ainda porque a minha máquina não tem instalado)
+
+
+Cursos
+
+
+Dia 26
+	https://cursos.alura.com.br/course/sqlite-online-conhecendo-instrucoes-sql (Concluido)
+	https://cursos.alura.com.br/course/swagger-documentando-apis (Iniciado)
+
+
+Dia 29
+	https://cursos.alura.com.br/course/swagger-documentando-apis (Concluido)
+
+
+Dia 30
+	https://cursos.alura.com.br/course/sqlite-online-executando-consultas-sql (Concluido)
+	Exercícios no SQLBolt
+
+
+----------------Maio--------------------------
+
+
+Dia 1
+	Feriado dia do trabalho
+
+
+Dia 2
+	Montagem de plano de estudos js e cypress básico
+		https://cursos.alura.com.br/meu-plano-de-estudos-pedrinho-seco-1714662408893-p763033
+		
+	https://cursos.alura.com.br/course/javascript-introducao (Concluido)
+	https://cursos.alura.com.br/course/javascritpt-orientacao-objetos (Iniciado)
+
+
+Dia 3
+	Continuar https://cursos.alura.com.br/course/javascritpt-orientacao-objetos
+	Fazer exercícios no leetcode -> SQL e JS
