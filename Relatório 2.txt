@@ -1,0 +1,45 @@
+Relatório 2
+
+https://github.com/Royal-Spymaster/cesgranrio
+https://leetcode.com/u/RoyalSpymaster/
+
+Dia 06/05
+
+1. Planos de estudos "Revisão", "AZ-900" criados
+
+    https://cursos.alura.com.br/meu-plano-de-estudos-pedrinho-seco-1715009111340-p764271 "Revisão"
+    https://cursos.alura.com.br/meu-plano-de-estudos-pedrinho-seco-1714075165310-p760551 "AZ-900"
+2. Plano de estudos "JavaScript e Cypress" atualizado
+
+    https://cursos.alura.com.br/meu-plano-de-estudos-pedrinho-seco-1714662408893-p763033 "JavaScript, Cypress e APIs"
+3. Curso "JavaScript: programando a Orientação a Objetos" concluído
+4. Curso "Git e GitHub: dominando controle de versão de código" Iniciado
+
+    https://cursos.alura.com.br/course/git-github-dominando-controle-versao-codigo
+
+5. Exercícios feitos no leetcode
+
+Dia 07/05
+
+1. Curso "Git e GitHub: dominando controle de versão de código" concluído
+2. Curso "JavaScript: criando requisições" Iniciado
+
+    https://cursos.alura.com.br/course/javascript-criando-requisicoes~
+
+Dia 08/05
+
+1. Curso "JavaScript: criando requisições" continuado
+2. Acompanhamento do treinamento de proctor do suporte
+
+Dia 09/05
+
+1. Curso "JavaScript: criando requisições" continuado
+2. Acompanhamentodo teste do proctor
+
+Dia 10/05
+
+1. Curso "JavaScript: criando requisições finalizado"
+2. Curso "Learn JMETER from Scratch on Live Apps - Performance Testing" Iniciado (1)
+    https://www.udemy.com/course/learn-jmeter-from-scratch-performance-load-testing-tool/
+
+(1) Infelizmente a alura é bem pobre em cursos de certos softwares como o Jmeter e o postman, diferente da udemy
